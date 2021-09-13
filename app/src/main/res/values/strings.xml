@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Proyecto_Moviles</string>
+
+    <string name="tvCorreo">Correo</string>
+    <string name="tvContrasena">Contraseña</string>
+    <string name="btIngresar">Ingresar</string>
+    <string name="btRegistro">Registrarse</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar Sesión</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
